@@ -1,4 +1,4 @@
-# vue-ts-webpack-simple
+# vue-ts-webpack-grande
 
 > A grande-cup Vue with TypeScript, Webpack & more... setup.
 
@@ -7,7 +7,7 @@
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ npm install -g vue-cli
+$ npm install -g @vue/cli @vue/cli-init
 $ vue init longyiszh/vue-ts-webpack-grande [my-project]
 $ cd [my-project]
 $ npm install
