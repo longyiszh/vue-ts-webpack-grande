@@ -1,6 +1,6 @@
 # vue-ts-webpack-simple
 
-> A simple Vue ^2.5.0 with TypeScript 2.5, Webpack 3 & `vue-loader` setup for quick prototyping.
+> A grande-cup Vue with TypeScript, Webpack & more... setup.
 
 ### Usage
 
@@ -8,7 +8,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init wcxaaa/vue-ts-webpack-simple [my-project]
+$ vue init longyiszh/vue-ts-webpack-grande [my-project]
 $ cd [my-project]
 $ npm install
 $ npm run serve
@@ -29,3 +29,7 @@ You can fork this repo to create your own boilerplate, and use it with `vue-cli`
 ``` bash
 vue init [username/repo] [my-project]
 ```
+
+### This project is based on
+
+ktsn/typescript-webpack-simple -> wcxaaa/vue-ts-webpack-simple
